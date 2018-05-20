@@ -1,0 +1,7 @@
+﻿  SaveManager.cpp
+d:\coding\mosg_vs\mosg_vs\mosg_vs\gameobject.h(58): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  UI_And_General.cpp
+  MOSG_VS.vcxproj -> D:\Coding\MOSG_VS\MOSG_VS\Debug\MOSG_VS.exe
+  MOSG_VS.vcxproj -> D:\Coding\MOSG_VS\MOSG_VS\Debug\MOSG_VS.pdb (Full PDB)

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cereal>
+	<value0>
+		<GOS_list size="dynamic">
+			<value0>
+				<name>Stupid box</name>
+				<number>0</number>
+				<x>6862.517578125</x>
+				<y>4458.990234375</y>
+				<vx>-49.309185028076172</vx>
+				<vy>-25.993568420410156</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-34.860729217529297</control_timer>
+				<action_timer>0.067792005836963654</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value0>
+			<value1>
+				<name>Stupid box</name>
+				<number>1</number>
+				<x>7110.537109375</x>
+				<y>4230.82958984375</y>
+				<vx>-5.3833770751953125</vx>
+				<vy>-37.716266632080078</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-52.061527252197266</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value1>
+			<value2>
+				<name>Stupid box</name>
+				<number>2</number>
+				<x>6862.455078125</x>
+				<y>4458.98046875</y>
+				<vx>-53.26373291015625</vx>
+				<vy>-26.594865798950195</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-24.416120529174805</control_timer>
+				<action_timer>0.084195002913475037</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value2>
+			<value3>
+				<name>Stupid box</name>
+				<number>3</number>
+				<x>6862.5654296875</x>
+				<y>4459.03173828125</y>
+				<vx>-46.294685363769531</vx>
+				<vy>-23.364349365234375</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-33.691459655761719</control_timer>
+				<action_timer>0.084195002913475037</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value3>
+			<value4>
+				<name>Stupid box</name>
+				<number>4</number>
+				<x>6862.517578125</x>
+				<y>4458.990234375</y>
+				<vx>-49.309185028076172</vx>
+				<vy>-25.993568420410156</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-24.052570343017578</control_timer>
+				<action_timer>0.084195002913475037</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value4>
+			<value5>
+				<name>Capturer</name>
+				<number>0</number>
+				<x>6368.0166015625</x>
+				<y>896.10406494140625</y>
+				<vx>-23.922998428344727</vx>
+				<vy>-7.78033447265625</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-52.061527252197266</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>4</first>
+							<second>Stupid box</second>
+						</value>
+					</value0>
+					<value1>
+						<key>1</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value1>
+					<value2>
+						<key>2</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value2>
+					<value3>
+						<key>3</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value3>
+					<value4>
+						<key>4</key>
+						<value>
+							<first>5</first>
+							<second>Stupid box</second>
+						</value>
+					</value4>
+					<value5>
+						<key>5</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value5>
+					<value6>
+						<key>6</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value6>
+					<value7>
+						<key>7</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value7>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value5>
+			<value6>
+				<name>Capturer</name>
+				<number>1</number>
+				<x>6674.79638671875</x>
+				<y>4308.13720703125</y>
+				<vx>-51.636215209960938</vx>
+				<vy>-38.5980224609375</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-43.679569244384766</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>4</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>4</first>
+							<second>Stupid box</second>
+						</value>
+					</value0>
+					<value1>
+						<key>1</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value1>
+					<value2>
+						<key>2</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value2>
+					<value3>
+						<key>3</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value3>
+					<value4>
+						<key>4</key>
+						<value>
+							<first>5</first>
+							<second>Stupid box</second>
+						</value>
+					</value4>
+					<value5>
+						<key>5</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value5>
+					<value6>
+						<key>6</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value6>
+					<value7>
+						<key>7</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value7>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value6>
+			<value7>
+				<name>Capturer</name>
+				<number>2</number>
+				<x>6747.3349609375</x>
+				<y>4761.4453125</y>
+				<vx>-64.004837036132813</vx>
+				<vy>15.396219253540039</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-44.478275299072266</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>3</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>4</first>
+							<second>Stupid box</second>
+						</value>
+					</value0>
+					<value1>
+						<key>1</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value1>
+					<value2>
+						<key>2</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value2>
+					<value3>
+						<key>3</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value3>
+					<value4>
+						<key>4</key>
+						<value>
+							<first>5</first>
+							<second>Stupid box</second>
+						</value>
+					</value4>
+					<value5>
+						<key>5</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value5>
+					<value6>
+						<key>6</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value6>
+					<value7>
+						<key>7</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value7>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value7>
+			<value8>
+				<name>Capturer</name>
+				<number>3</number>
+				<x>6861.68603515625</x>
+				<y>4458.5517578125</y>
+				<vx>-49.309185028076172</vx>
+				<vy>-25.993568420410156</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-45.513744354248047</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>5</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>4</first>
+							<second>Stupid box</second>
+						</value>
+					</value0>
+					<value1>
+						<key>1</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value1>
+					<value2>
+						<key>2</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value2>
+					<value3>
+						<key>3</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value3>
+					<value4>
+						<key>4</key>
+						<value>
+							<first>5</first>
+							<second>Stupid box</second>
+						</value>
+					</value4>
+					<value5>
+						<key>5</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value5>
+					<value6>
+						<key>6</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value6>
+					<value7>
+						<key>7</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value7>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value8>
+			<value9>
+				<name>Capturer</name>
+				<number>4</number>
+				<x>7160.701171875</x>
+				<y>4252.03076171875</y>
+				<vx>-25.33306884765625</vx>
+				<vy>-27.21833610534668</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-50.408588409423828</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>false</controlable>
+				<current_action>1</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>4</first>
+							<second>Stupid box</second>
+						</value>
+					</value0>
+					<value1>
+						<key>1</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value1>
+					<value2>
+						<key>2</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value2>
+					<value3>
+						<key>3</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value3>
+					<value4>
+						<key>4</key>
+						<value>
+							<first>5</first>
+							<second>Stupid box</second>
+						</value>
+					</value4>
+					<value5>
+						<key>5</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value5>
+					<value6>
+						<key>6</key>
+						<value>
+							<first>3</first>
+							<second>-</second>
+						</value>
+					</value6>
+					<value7>
+						<key>7</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value7>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value9>
+			<value10>
+				<name>Gid</name>
+				<number>0</number>
+				<x>6829.2529296875</x>
+				<y>4366.6064453125</y>
+				<vx>0.051758222281932831</vx>
+				<vy>-3.0452200007857755e-05</vy>
+				<current_angle>0</current_angle>
+				<angular_velocity>0</angular_velocity>
+				<mass>1</mass>
+				<control_timer>-27.352540969848633</control_timer>
+				<action_timer>0.067330002784729004</action_timer>
+				<health>100</health>
+				<mana>100</mana>
+				<temperature>36</temperature>
+				<controlable>true</controlable>
+				<current_action>0</current_action>
+				<contained>false</contained>
+				<action_map size="dynamic">
+					<value0>
+						<key>0</key>
+						<value>
+							<first>0</first>
+							<second>-</second>
+						</value>
+					</value0>
+				</action_map>
+				<internal_objects size="dynamic"/>
+				<container>
+					<first></first>
+					<second>0</second>
+				</container>
+				<texture_files size="dynamic"/>
+				<sound_files size="dynamic"/>
+			</value10>
+		</GOS_list>
+	</value0>
+</cereal>
+
